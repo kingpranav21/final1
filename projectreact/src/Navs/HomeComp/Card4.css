@@ -1,0 +1,16 @@
+.c4-cont{
+    padding: 1rem;
+}
+.c4-body{
+    font-weight: bold;
+    opacity: 0.5;
+    font-size: 0.9rem;
+}
+.c4-foot{
+    margin-top: 4rem;
+    font-weight: bold;
+    opacity: 0.7;
+}
+.c4-foot span{
+    opacity: 0.5;
+}

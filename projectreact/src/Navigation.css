@@ -1,0 +1,28 @@
+*{
+    transition: all 0.5s ease;
+}
+.navi{
+    display: flex;
+    justify-content: space-between;
+    /* border: 2px solid black; */
+    width: 60%;
+    margin: auto;
+    margin-top: 2rem;
+    
+    
+}
+.navi > *{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+} 
+.hee{
+    border: 2px solid transparent;
+    padding: 0.4rem;
+}
+
+.active{
+    color:rgb(138, 138, 138);
+    border-top: 2px solid rgb(0, 0, 0);
+    
+}

@@ -1,0 +1,28 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.bord{
+    border: 2px solid black;
+}
+.topic{
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    font-size: 3.3rem;
+    font-weight: bolder;
+    margin: auto;
+    margin-top: 2rem;
+    
+}
+.the{
+    transform: rotateZ(270deg);
+    font-size: 1.59rem;
+    margin-right: -1.1rem;
+    
+}
+.content{
+    width: 75%;
+    margin: auto;
+    margin-top: 2rem;
+}
+

@@ -1,0 +1,31 @@
+.login-div{
+    
+    height: 30rem;
+    
+}
+.sinin{
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+}
+.hrrin{
+    width: 16rem;
+    
+}
+.inpin{
+    width: 16rem;
+    height: 2rem;
+}
+.inp1in{
+    width: 14rem;
+    height: 2.4rem;
+    color: white;
+    background-color: black;
+}
+
+.inp11in{
+    width: 14rem;
+    height: 2.4rem;
+    color: red;
+    background-color: rgba(0, 128, 0, 0.79);
+}

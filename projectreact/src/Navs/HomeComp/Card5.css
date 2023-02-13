@@ -1,0 +1,18 @@
+.c5-img img{
+    border-radius: 0.5rem;
+    height: 12rem;
+    width: 17rem;
+}
+.c5-p{
+    opacity: 0.5;
+    font-size: 0.8rem;
+}
+
+.c5 img{
+    width: 4rem;
+}
+.c5-txt{
+    position: relative;
+    top: -1.1rem;
+    width: 100%;
+}

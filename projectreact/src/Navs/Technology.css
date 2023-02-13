@@ -1,0 +1,93 @@
+.tech-cont{
+    width: 75%;  
+    display: flex;
+    justify-content: space-between;
+    
+}
+.tec-content{
+
+    margin-left: 7rem;
+    width: 70%;
+}
+.share{
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    
+}
+.content-head{
+    display: flex;
+    justify-content:flex-start;
+}
+.headd-img img{
+    width: 6rem;
+}
+
+.headd-txt{
+    margin-left: 1.3rem;
+    width:34%;
+    font-weight: bold;
+}
+.headd-txt p{
+    font-size: 0.9rem;
+    position: relative;
+    top: 1.2rem;
+}
+.headd-txt span{
+    font-size: 0.7rem;
+    opacity: 0.4;
+}
+.headd-fav{
+    width: 45%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.headd-fav img{
+    width: 5rem;
+    cursor: pointer;
+}
+
+.tec-img1 img{
+    margin-top: 2rem;
+    width: 100%;
+}
+
+.tec-txt2{
+    margin-top: 2rem;
+}
+.tec-img2 img{
+    margin-top: 2rem;
+    width: 100%;
+}
+button{
+    cursor: pointer ;
+    border: none;
+    background-color: rgba(186, 182, 182, 0.77);
+    color: rgb(138, 137, 137);
+    margin: 1rem;
+}
+
+.tec-foot{
+    background-color: rgb(238, 238, 238);
+    padding: 2rem;
+}
+.foot-imgtxt{
+    display: flex;
+    justify-content: space-around;
+}
+
+.share-1{
+    margin-top: 10rem;
+    position: fixed;
+    z-index: -1;
+    cursor: pointer;
+}
+.share-1  img{
+    width: 2rem;
+}
+.share-1 span{
+    position: relative;
+    top: -0.6rem;
+    left: 0.6rem;
+}

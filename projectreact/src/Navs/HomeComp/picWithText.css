@@ -1,0 +1,41 @@
+.bord{
+    border: 2px solid black;
+}
+
+.card{
+    width: 20rem;
+}
+.imag{
+    margin-left: 0.8rem;
+    width: 18rem;
+    height: 12rem;
+}
+.imag img{
+    height: 100%;
+    width: 100%;
+    border-radius: 0.3rem;
+}
+.text{
+    margin-left: 1.5rem;
+    width: 85%;
+}
+.h11{
+    font-size: 1.6rem;
+    font-weight: bold;
+    opacity: 0.8;
+    margin-top: 0.5rem;
+}
+.h22{
+    font-size: 0.9rem;
+    margin-top: -0.5rem;
+    font-weight: bold;
+    opacity: 0.6;
+}
+.h33{
+    font-weight: bold;
+    opacity: 0.8;
+}
+.h33 span{
+    opacity: 0.6;
+    font-weight: bold;
+}
